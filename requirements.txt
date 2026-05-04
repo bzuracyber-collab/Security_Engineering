@@ -1,1 +1,1 @@
-pip install supabase
+pip install supabase boto3 resend requests
